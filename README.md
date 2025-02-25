@@ -1,4 +1,4 @@
 # Machine-Learning-with-Cpp
-Learning blog
-Input 1
-Input 2
+Learning blog  
+Input 1  
+Input 2  
